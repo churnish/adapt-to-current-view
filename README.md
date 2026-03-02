@@ -43,14 +43,4 @@ A few other themes that highlight the accent color:
 
 ## Support
 
-- [Report bugs](https://github.com/greetclammy/adapt-to-current-view/issues)
-- [Request features](https://github.com/greetclammy/first-line-is-title/issues)
-- [Contribute improvements](https://github.com/greetclammy/adapt-to-current-view/pulls)
-- Share your thoughts on:
-  - [Obsidian Forum](https://forum.obsidian.md/t/plugin-to-asign-different-accent-colors-for-reading-view-live-preview-and-source-view/90504)
-  - [Discord](https://discord.com/channels/686053708261228577/707816848615407697) • [Join](https://discord.com/invite/obsidianmd)
-  - [GitHub discussions](https://github.com/greetclammy/adapt-to-current-view/discussions)
-
-## Optional CSS snippets
-
-A few nifty appearance tweaks can be found [here](https://github.com/greetclammy/adapt-to-current-view/tree/main/Optional%20CSS%20snippets).
+Found a bug or have a feature request? [Open an issue](https://github.com/churnish/adapt-to-current-view/issues).
