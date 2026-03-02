@@ -1,6 +1,8 @@
 node_modules/
 .claude/
 
+* 2
+* 2.*
 *.zip
 
 .DS_Store
