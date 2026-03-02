@@ -1,4 +1,8 @@
 node_modules/
 .claude/
 
+*.zip
+
 .DS_Store
+data.json
+main.js
