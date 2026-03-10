@@ -4,16 +4,12 @@ import obsidianmd from 'eslint-plugin-obsidianmd';
 import comments from '@eslint-community/eslint-plugin-eslint-comments/configs';
 
 export default defineConfig([
-  // Only lint TypeScript files
   {
-    ignores: ['**', '!main.ts'],
+    ignores: ['**', '!src/**', '!main.ts'],
   },
 
-  // Obsidian recommended rules (includes JS recommended, TS type-checked,
-  // obsidianmd/*, @microsoft/sdl/*, import/*, depend/*)
   ...obsidianmd.configs.recommended,
 
-  // Browser globals and TypeScript parser options
   {
     languageOptions: {
       globals: {
@@ -26,15 +22,14 @@ export default defineConfig([
     },
   },
 
-  // Project-specific overrides for TypeScript
   {
     files: ['**/*.ts'],
     rules: {
-      // Keep varsIgnorePattern for underscore-prefixed variables
       '@typescript-eslint/no-unused-vars': [
         'warn',
         { args: 'none', varsIgnorePattern: '^_' },
       ],
+      'no-undef': 'off',
       // Plugin injects dynamic CSS via style elements — core functionality, not a static-style issue
       'obsidianmd/no-forbidden-elements': 'off',
     },

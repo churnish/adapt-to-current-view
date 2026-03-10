@@ -1,11 +1,11 @@
 /* Hidden element for color computation */
 .adapt-temp-color-element {
-    display: none;
+  display: none;
 }
 
 /* Restore button container styling */
 .adapt-restore-button-container {
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
 }

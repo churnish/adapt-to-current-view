@@ -1,10 +1,12 @@
-node_modules/
-.claude/
-
 * 2
 * 2.*
-*.zip
+
+.claude/
+node_modules/
+
+*.js.map
 
 .DS_Store
 data.json
 main.js
+package-lock.json
