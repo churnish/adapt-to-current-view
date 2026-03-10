@@ -43,4 +43,6 @@ A few other themes that highlight the accent color:
 
 ## Support
 
-Found a bug or have a feature request? [Open an issue](https://github.com/churnish/adapt-to-current-view/issues).
+- Found a bug or have a feature request? [Open an issue](https://github.com/churnish/adapt-to-current-view/issues).
+- Have a question? [Start a discussion](https://github.com/churnish/adapt-to-current-view/discussions).
+- PRs welcome.
