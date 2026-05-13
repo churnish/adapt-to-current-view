@@ -40,9 +40,3 @@ A few other themes that highlight the accent color:
 <a href="https://github.com/account-not-relevant/museifu-basic-theme">https://github.com/account-not-relevant/museifu-basic-theme</a><p></p>
 <img src="https://github.com/user-attachments/assets/54de01fa-a1c7-4482-b0da-5afb812388f2" />
 </details>
-
-## Support
-
-- Found a bug or have a feature request? [Open an issue](https://github.com/churnish/adapt-to-current-view/issues).
-- Have a question? [Start a discussion](https://github.com/churnish/adapt-to-current-view/discussions).
-- PRs welcome.
