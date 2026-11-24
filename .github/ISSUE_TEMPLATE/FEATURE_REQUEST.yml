@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest an improvement or new feature for the Adapt to Current View plugin
+type: Feature
 labels:
-  - Feature request
   - '⚪️ Pending'
 body:
   - type: markdown
